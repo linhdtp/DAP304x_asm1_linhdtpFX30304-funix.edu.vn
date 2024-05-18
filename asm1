@@ -1,0 +1,11 @@
+# Task 1
+while True:
+    class_file = input("Enter a class file to grade (i.e. class1 for class1.txt): ")
+    filename = f"{class_file}.txt"
+
+    try:
+        with open(filename, 'r') as file:
+            print(f"Successfully opened {filename}")
+            break
+    except FileNotFoundError:
+        print("File cannot be found.")
