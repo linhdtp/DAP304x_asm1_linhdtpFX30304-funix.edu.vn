@@ -1,20 +1,16 @@
 # task 1
-while True:
-    class_file = input("Enter a class file to grade (i.e. class1 for class1.txt): ")
-    filename = f"{class_file}.txt"
+while True
+    class_file  = input("Enter a class filte to grade (i.e class1 for class1.txt): ")
+    file_name = (f"{class_file}.txt")
 
     try:
-        with open(filename, 'r') as file:
-            print(f"Successfully opened {filename}")
+        with open(file_name,'r') as file:
+            print(f"Successfully open {file_name}")
             break
     except FileNotFoundError:
         print("File cannot be found.")
 # task 2
-line_count = 0
-for line in filename:
-    filename.readline()
-    line_count += 1
-print("
+
 
 
 
