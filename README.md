@@ -14,8 +14,7 @@ The project consists of several tasks that can be executed for grading exams:
 To use the project, follow these steps:
 
 1. Execute the Python script that corresponds to the desired task.
-2. Follow the instructions provided by the script to input the necessary information or provide the required files.
-3. Review the generated output or files for the results of the grading process.
+2. Review the generated output or files for the results of the grading process.
 
 ## License
 
