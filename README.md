@@ -1,6 +1,6 @@
 # Exam Grading System
 
-This Python project is designed to grade exams for 8 different classes.
+This Python project is designed to grade exams for 8 classes.
 
 ## Usage
 
