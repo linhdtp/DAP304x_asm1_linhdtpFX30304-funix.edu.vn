@@ -172,7 +172,7 @@ def analyze(file_name):
             invalid_lines += 1
         elif not re.match(r"^N\d{8}", parts[0]):
             print(f"Invalid line of data: N# is invalid \n {line}")
-            inva;id_lines += 1
+            invalid_lines += 1
         else:
             valid_lines.append(parts)
 
