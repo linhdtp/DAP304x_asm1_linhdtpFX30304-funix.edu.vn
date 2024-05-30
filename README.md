@@ -19,4 +19,4 @@ To use the project, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify the code as necessary to suit your requirements.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to modify the code as necessary to suit your requirements.
